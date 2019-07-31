@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    $("#id_CBzAA230t").click(function() {
+    $("div[data-framer-name='auctionbtn']").click(function() {
         console.log("clicked")
     })
 });
