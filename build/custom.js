@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    $(".sc-htpNat.bJupAL:nth-child(3)").click(function() {
+    $("#id_CBzAA230t").click(function() {
         console.log("clicked")
     })
 });
