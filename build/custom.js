@@ -1,3 +1,5 @@
 $( document ).ready(function() {
-    console.log( "ready!" );
+    $("#id_CBzAA230t").click(function() {
+        console.log("clicked")
+    })
 });
