@@ -129,6 +129,17 @@ node_modules/@framer/kasimir.iphone-x-kit/code/Status Bar/Status_Bar.tsx
 node_modules/@framer/kasimir.iphone-x-kit/code/Home Button (iPhone X)/HomeButton.tsx
 node_modules/@framer/kasimir.iphone-x-kit/build/index.js
 node_modules/@framer/kasimir.iphone-x-kit/README.md
+node_modules/@framer/jurrehoutkamp.audio-player/tsconfig.json
+node_modules/@framer/jurrehoutkamp.audio-player/package.json
+node_modules/@framer/jurrehoutkamp.audio-player/metadata/icon.png
+node_modules/@framer/jurrehoutkamp.audio-player/metadata/artwork.png
+node_modules/@framer/jurrehoutkamp.audio-player/dist/index.js
+node_modules/@framer/jurrehoutkamp.audio-player/design/images/9FzLVEu0TWKQ0ccSM9CV54ffadQ.png
+node_modules/@framer/jurrehoutkamp.audio-player/design/document.json
+node_modules/@framer/jurrehoutkamp.audio-player/code/canvas.tsx
+node_modules/@framer/jurrehoutkamp.audio-player/code/AudioPlayer.tsx
+node_modules/@framer/jurrehoutkamp.audio-player/build/index.js
+node_modules/@framer/jurrehoutkamp.audio-player/README.md
 node_modules/@framer/jongheepaper.flip-card/tsconfig.json
 node_modules/@framer/jongheepaper.flip-card/package.json
 node_modules/@framer/jongheepaper.flip-card/metadata/icon.png
@@ -198,6 +209,16 @@ node_modules/@framer/hyfive.feather-ui-fundamentals/code/Device/Keyboard.tsx
 node_modules/@framer/hyfive.feather-ui-fundamentals/code/Container/PageWIthMedia.tsx
 node_modules/@framer/hyfive.feather-ui-fundamentals/code/Container/BottomSheet.tsx
 node_modules/@framer/hyfive.feather-ui-fundamentals/README.md
+node_modules/@framer/guischneider.video-player/tsconfig.json
+node_modules/@framer/guischneider.video-player/package.json
+node_modules/@framer/guischneider.video-player/metadata/icon.png
+node_modules/@framer/guischneider.video-player/metadata/artwork.png
+node_modules/@framer/guischneider.video-player/dist/index.js
+node_modules/@framer/guischneider.video-player/design/document.json
+node_modules/@framer/guischneider.video-player/design/assets/video.mov
+node_modules/@framer/guischneider.video-player/code/canvas.tsx
+node_modules/@framer/guischneider.video-player/code/VideoPlayer.tsx
+node_modules/@framer/guischneider.video-player/README.md
 node_modules/@framer/graz.wireframe-kit/package.json
 node_modules/@framer/graz.wireframe-kit/metadata/icon.png
 node_modules/@framer/graz.wireframe-kit/metadata/artwork.png
